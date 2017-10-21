@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>639672469686-7h7jrthmq6qsb1kc2qr4jkp6jrh4hrb2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.639672469686-7h7jrthmq6qsb1kc2qr4jkp6jrh4hrb2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYjN2f56PGhV5eD0SHFFf6CH1uoN9rZq8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>639672469686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>swift3.RealmApp</string>
+	<key>PROJECT_ID</key>
+	<string>realmapp-f2613</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:639672469686:ios:8cb41f443fd9f87f</string>
+	<key>DATABASE_URL</key>
+	<string>https://realmapp-f2613.firebaseio.com</string>
+</dict>
+</plist>
